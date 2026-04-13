@@ -1,6 +1,6 @@
 <div align="center">
 
-![Github Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdjZHF3ZDA1M2t4MHRrYmpoZm83NmV5cWtwZG83bTE0N3k2azBqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif)
+![Github Banner](./assets/github-header-banner.png))
 
 </div>
 
