@@ -13,21 +13,11 @@
                 'Chilling',
 			 	'Gaming',
 				'Sports'
-			]
-	
-	def getCity():
-		return Chhattisgarh_India()
-	
-	def Ambitions():
-		BecomeSoftwareEngineer()
-		FinishMyProjects()
-	
+			]	
  ```
 ## Learned skills
 
-<p>
-    <a href="#"><img alt="Python" src="https://giphy.com/explore/coding-python"></a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ## Skills to learn
 <p>
@@ -38,13 +28,15 @@
 
 ## About me
 
-Sobre mí
 Soy estudiante de desarrollo de software en CampusLands, ubicado en Bucaramanga, Santander (Colombia). Tengo muchas ganas de aprender y crecer en el mundo de la programación, y me comprometo a dar lo mejor de mí en cada proyecto que emprendo.
 
 💻 Me apasiona la programación y cada día descubrir algo nuevo que me haga mejor desarrollador
+
 🤖 Me interesa mucho la inteligencia artificial y su futuro, especialmente cómo puede transformar y automatizar procesos en las empresas
+
 🗣️ Idiomas: Español (nativo) · Inglés (intermedio)
 
 ------
-[David - Navas](https://github.com/DavidNavas898)
+[David Navas](https://github.com/DavidNavas898)
+
 Last Edited on - 13/04/2026
