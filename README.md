@@ -1,6 +1,6 @@
 <div align="center">
 
-![Github Banner](./assets/github-header-banner.png))
+![Github Banner](./assets/github-header-banner.png)
 
 </div>
 
