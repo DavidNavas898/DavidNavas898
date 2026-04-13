@@ -1,16 +1,50 @@
-## Hi there 👋
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-<!--
-**DavidNavas898/DavidNavas898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
 
-Here are some ideas to get you started:
+ ```python
+  class WhoAmI:
+    user = 'David Navas'
+	current_edu = "Campuslands"
+    currently_learning = "Git and Scrum soon"
+    fun_fact = "I hate barcelona"
+	hobbies = [
+				'Music',
+                'Chilling',
+			 	'Gaming',
+				'Sports'
+			]
+	
+	def getCity():
+		return Chhattisgarh_India()
+	
+	def Ambitions():
+		BecomeSoftwareEngineer()
+		FinishMyProjects()
+	
+ ```
+## Learned skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+    <a href="#"><img alt="Python" src="https://giphy.com/explore/coding-python"></a>
+</p>
+
+## Skills to learn
+<p>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+</p>
+
+## About me
+
+Sobre mí
+Soy estudiante de desarrollo de software en CampusLands, ubicado en Bucaramanga, Santander (Colombia). Tengo muchas ganas de aprender y crecer en el mundo de la programación, y me comprometo a dar lo mejor de mí en cada proyecto que emprendo.
+
+💻 Me apasiona la programación y cada día descubrir algo nuevo que me haga mejor desarrollador
+🤖 Me interesa mucho la inteligencia artificial y su futuro, especialmente cómo puede transformar y automatizar procesos en las empresas
+🗣️ Idiomas: Español (nativo) · Inglés (intermedio)
+
+------
+[David - Navas](https://github.com/DavidNavas898)
+Last Edited on - 13/04/2026
