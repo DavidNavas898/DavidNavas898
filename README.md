@@ -1,4 +1,14 @@
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+<div align="center">
+
+![Github Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdjZHF3ZDA1M2t4MHRrYmpoZm83NmV5cWtwZG83bTE0N3k2azBqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif)
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Junior+developer+en+progreso+%F0%9F%93%88%F0%9F%92%BB)](https://git.io/typing-svg)
+
+</div>
 
 ## Who am I?
 
@@ -10,7 +20,7 @@
     fun_fact = "I hate barcelona"
 	hobbies = [
 				'Music',
-                'Chilling',
+            'Chilling',
 			 	'Gaming',
 				'Sports'
 			]	
@@ -28,13 +38,7 @@
 
 ## About me
 
-Soy estudiante de desarrollo de software en CampusLands, ubicado en Bucaramanga, Santander (Colombia). Tengo muchas ganas de aprender y crecer en el mundo de la programación, y me comprometo a dar lo mejor de mí en cada proyecto que emprendo.
-
-💻 Me apasiona la programación y cada día descubrir algo nuevo que me haga mejor desarrollador
-
-🤖 Me interesa mucho la inteligencia artificial y su futuro, especialmente cómo puede transformar y automatizar procesos en las empresas
-
-🗣️ Idiomas: Español (nativo) · Inglés (intermedio)
+[![Sobre m](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=00BFFF&multiline=true&width=700&height=120&lines=Soy+estudiante+de+desarrollo+de+software+en+CampusLands%2C;Bucaramanga%2C+Santander+(Colombia).+Siempre+aprendiendo+y+creciendo.;💻+Me+apasiona+la+programacion+y+descubrir+algo+nuevo+cada+dia.;🤖+Interesado+en+IA+y+su+futuro+en+la+automatizacion.;🗣️+Idiomas%3A+Español+(nativo)+·+Inglés+(intermedio))](https://git.io/typing-svg)
 
 ------
 [David Navas](https://github.com/DavidNavas898)
