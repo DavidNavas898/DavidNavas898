@@ -14,7 +14,7 @@
 
  ```python
   class WhoAmI:
-    user = 'David Navas'
+    user = 'David Nava'
 	current_edu = "Campuslands"
     currently_learning = "Git and Scrum soon"
     fun_fact = "I hate barcelona"
